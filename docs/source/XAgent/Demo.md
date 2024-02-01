@@ -1,6 +1,6 @@
 # Demo
 
-Please check out at [Demp playground](https://x-agent.net/share) where we have provided several use cases for you to observe the operation process.
+Please check out at [Demo playground](https://x-agent.net/share) where we have provided several use cases for you to observe the operation process.
 
 ## Case 1. Data Analysis: Demonstrating the Effectiveness of Dual-Loop Mechanism
 
